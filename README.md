@@ -13,7 +13,9 @@ Sensitivity and scenario analysis
 
 Files
 CocaCola_Financial_Model.xlsx — Main working model
+
 Financial_Report — Cocacolas 2024 10k report
+
 Cocacola_Recommendations — Powerpoint with key findings and Stock Pitch
 
 How to View
