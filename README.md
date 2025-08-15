@@ -26,6 +26,6 @@ Cocacola_Recommendations — Powerpoint with key findings and Stock Pitch
 
 How to View
 
-You can download the Excel file directly from GitHub or preview the CSVs online.
+You can download the Excel file directly from GitHub
 
 Created by James Rogers Ochwa Jr.
