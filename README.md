@@ -6,9 +6,13 @@ Discounted Cash Flow (DCF) analysis
 Comparable company analysis and football field valuation
 
 Skills Demonstrated
+
 Advanced Excel modeling
+
 Financial statement integration
+
 Valuation techniques (DCF, trading multiples)
+
 Sensitivity and scenario analysis
 
 Files
